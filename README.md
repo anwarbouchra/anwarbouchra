@@ -8,4 +8,4 @@ I'm really excited to be on this graduate scheme and my goal is to become a soft
 
 I just uploaded this using VS Code and the Apple Terminal , pretty proud of myself.
 
-Hmmm
+Hmmm, small change
